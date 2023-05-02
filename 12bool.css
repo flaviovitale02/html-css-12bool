@@ -8,16 +8,7 @@
     flex: 0 0 auto;
     background-color: #006cfa;
 }
-.text-center{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.row{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
+
 
 
 .col-1{
@@ -108,26 +99,3 @@
     margin-left: calc((100% / 12) * 11);
 }
 
-.stand{
-    padding: 1%;
-    border: 2px solid white;
-    color: white;
-}
-    
-.col-6 div.nest{
-    justify-content: center;
-    text-align: center;
-}
-.nested{
-    background-color: #00e165;
-    height: 30px;
-    border: 1px solid white;
-    color: white;
-}
-.margin-top{
-    margin-top: 1%;
-}
-
-.height{
-    height:40px;
-}
